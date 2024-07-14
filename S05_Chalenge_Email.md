@@ -1,8 +1,8 @@
-**Prompt:**
+# Prompt:
 
 Considerando, una compañía acaba de crear un nuevo GPT experto en todo lo relacionado al café, orígenes, tipos, niveles de tostado, mezclas y precios. Redacta un correo anunciando la campaña de marketing para promocionar y vender el producto. El objetivo de la campaña es la adquisición de clientes, dando a conocer el producto asi como sus ventajas.
 
-**Respuesta:**
+## Respuesta:
 
 ¡Claro! Aquí tienes un ejemplo de correo para anunciar la campaña de marketing del nuevo GPT especializado en café:
 
