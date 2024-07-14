@@ -96,4 +96,5 @@ genera el código html para una landing page que promocione el GPT Café y que e
 
 ```
 
+
 Este código HTML crea una landing page que incluye una sección de presentación del GPT Café, una sección de características y una llamada a la acción que dirige a los usuarios a la tienda para usar el GPT Café. Asegúrate de reemplazar los enlaces de ejemplo y la URL de la imagen de fondo con los enlaces y recursos reales que desees utilizar.
