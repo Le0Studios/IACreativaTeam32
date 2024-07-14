@@ -4,6 +4,8 @@ genera el código html para una landing page que promocione el GPT Café y que e
 
 ## Respuesta:
 
+¡Claro! Aquí tienes el código HTML para una landing page promocionando el GPT Café:
+
 ```
 <!DOCTYPE html>
 <html lang="es">
